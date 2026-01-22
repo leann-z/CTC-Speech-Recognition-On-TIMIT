@@ -1,0 +1,1 @@
+This project was completed as part of a graduate-level machine learning course. A baseline BiLSTM-CTC implementation was provided. My work focused on modifying the architecture, training strategy, and evaluation pipeline, as well as conducting experimental analysis.
